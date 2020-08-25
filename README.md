@@ -10,7 +10,7 @@ I performed my analysis of Outcome base on Launch Date using a pivot table to so
 resources\Theater_Outcomes_vs_Launch.png (https://github.com/tw99ch/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
 I added columns based on the instruction in the Deliverable 2. I created countifs formula by searching data which fit in the predetermined criteria which are the goal amount and outcome. Then I created the chart based on the summarized data. Outcomes_vs_Goals.png (https://github.com/tw99ch/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
-
+Please refer to the excel file for works performed. (https://github.com/tw99ch/kickstarter-analysis/blob/master/Kickstarter_Challenge.xlsx)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
