@@ -7,9 +7,9 @@ The purpose of the analysis is to visualize the outcomes base on launch date and
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 I performed my analysis of Outcome base on Launch Date using a pivot table to sort the outcome of the projects by launching months. I sorted the data by adding “Date Created Conversion” in rows section and “outcount” in the columns section, then add count of outcount in the value section. Then I filter outcome only relates to “theater” projects. Last, I created the chart using the pivot table data as the link.
-resources\Theater_Outcomes_vs_Launch.png
+resources\Theater_Outcomes_vs_Launch.png (https://github.com/tw99ch/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
-I added columns based on the instruction in the Deliverable 2. I created countifs formula by searching data which fit in the predetermined criteria which are the goal amount and outcome. Then I created the chart based on the summarized data. resources\Outcomes_vs_Goals.png
+I added columns based on the instruction in the Deliverable 2. I created countifs formula by searching data which fit in the predetermined criteria which are the goal amount and outcome. Then I created the chart based on the summarized data. Outcomes_vs_Goals.png (https://github.com/tw99ch/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
